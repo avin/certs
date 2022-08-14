@@ -19,3 +19,7 @@ https = {
   cert: fs.readFileSync('./node-modules/localhost-certs/files/server.crt', 'utf8'),
 };
 ```
+
+## More
+
+* [vite-plugin-localhost-certs](https://github.com/avin/vite-plugin-localhost-certs)
